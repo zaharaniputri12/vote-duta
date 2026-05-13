@@ -1,32 +1,16 @@
-# Vote Duta
+# vote_duta
 
-Aplikasi pemilihan duta sekolah berbasis **Flutter** yang memungkinkan siswa melakukan voting secara digital untuk memilih duta favorit mereka.
+A new Flutter project.
 
-## Fitur Utama
+## Getting Started
 
-- 🔐 **Autentikasi Siswa** - Login menggunakan NIS atau email sekolah
-- 🗳️ **Voting Real-time** - Pilih kandidat duta dengan sistem satu siswa satu suara
-- 📊 **Live Hasil Voting** - Melihat perolehan suara secara langsung
-- 👥 **Manajemen Kandidat** - Informasi profil dan visi misi duta
-- 📱 **Responsive Design** - Mendukung berbagai ukuran layar (HP, tablet)
+This project is a starting point for a Flutter application.
 
-## Teknologi yang Digunakan
+A few resources to get you started if this is your first Flutter project:
 
-- **Framework:** Flutter (Dart)
-- **State Management:** Provider / GetX (sesuai implementasi)
-- **Backend:** Firebase / REST API (sesuaikan)
-- **Database:** Firestore / MySQL
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-## Cara Menjalankan Aplikasi
-
-### Prasyarat
-- Flutter SDK (minimal versi 3.0)
-- Dart SDK
-- Editor (VS Code / Android Studio)
-
-### Langkah-langkah
-
-1. **Clone repository**
-   ```bash
-   git clone https://github.com/username/vote_duta.git
-   cd vote_duta
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
